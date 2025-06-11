@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Archy Das(@archydas)<br><br>Short Brief: Quant Data Scientist/ML Engineer | BITS Pilani | Prev. AI/ML Intern @University of Oxford | 1x Guinness World Record Holder<br><br>LinkedIn: https://www.linkedin.com/in/archy-das-677629282/<br>LeetCode: https://leetcode.com/u/Archy2201/<br>Interests: AI/ML/MLOps
+Hey, I’m Archy Das(@archydas)<br><br>Short Brief: Machine Learning Engineer| Research Intern @IITG| Ex-Project Intern @infosys| LinkedIn: https://www.linkedin.com/in/archy-das-677629282/<br>LeetCode: https://leetcode.com/u/Archy2201/<br>Interests: AI/ML/MLOps
 
 
 ## 🌐 Socials:
