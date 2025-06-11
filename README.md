@@ -12,7 +12,6 @@ Hey, I’m Archy Das(@archydas)<br><br>Short Brief: Machine Learning Engineer| R
 ![](https://nirzak-streak-stats.vercel.app/?user=archydas&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archydas&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
